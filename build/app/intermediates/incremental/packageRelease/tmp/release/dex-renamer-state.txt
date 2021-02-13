@@ -1,0 +1,4 @@
+#Sat Feb 13 15:49:46 PST 2021
+base.0=/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

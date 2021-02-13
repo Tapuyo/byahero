@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/d31435c4afe13012f248cb173a0b4b36/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

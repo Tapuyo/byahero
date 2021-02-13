@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/geolocation/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7552fbf5e6a48133f0b37cb05ec34c1f/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/geolocation/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7552fbf5e6a48133f0b37cb05ec34c1f/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/geolocation/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7552fbf5e6a48133f0b37cb05ec34c1f/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

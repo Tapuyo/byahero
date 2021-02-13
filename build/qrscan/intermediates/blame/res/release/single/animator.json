@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/design_fab_hide_motion_spec.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/design_fab_show_motion_spec.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_btn_state_list_anim.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/qrscan/intermediates/res/merged/release/animator/mtrl_chip_state_list_anim.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/3fa4c95847d0ac6a465cad219580904e/material-1.0.0/res/animator/mtrl_chip_state_list_anim.xml"
+    }
+]

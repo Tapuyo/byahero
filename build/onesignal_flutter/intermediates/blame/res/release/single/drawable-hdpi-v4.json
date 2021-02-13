@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/2cfc6de18491d78868ffdd6cc499684d/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/2cfc6de18491d78868ffdd6cc499684d/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/2cfc6de18491d78868ffdd6cc499684d/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/2cfc6de18491d78868ffdd6cc499684d/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/ic_os_notification_fallback_white_24dp.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/f9512dec0aaaf6f433234c0f8cf2fdc1/jetified-OneSignal-3.15.1/res/drawable-hdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/2cfc6de18491d78868ffdd6cc499684d/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/johnpaultapuyo/Desktop/Qoreit/byaherov1/build/onesignal_flutter/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/56b4702d2712d8091a439680ef6de5e0/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]
